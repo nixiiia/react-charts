@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-charts/static/css/main.1acd5dc1.css",
+    "main.js": "/react-charts/static/js/main.38880016.js",
+    "static/media/OpenSans-Regular.woff2": "/react-charts/static/media/OpenSans-Regular.6019683352f87d9cbe8f.woff2",
+    "static/media/OpenSans-Regular.woff": "/react-charts/static/media/OpenSans-Regular.4ab5834bfb1a32604eb4.woff",
+    "index.html": "/react-charts/index.html",
+    "main.1acd5dc1.css.map": "/react-charts/static/css/main.1acd5dc1.css.map",
+    "main.38880016.js.map": "/react-charts/static/js/main.38880016.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1acd5dc1.css",
+    "static/js/main.38880016.js"
+  ]
+}
