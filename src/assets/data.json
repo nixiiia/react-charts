@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "indicator": "Выручка, руб",
+    "today": "500 521",
+    "yesterday": "480 521",
+    "thisday": "4 805 121"
+  },
+  {
+    "id": 1,
+    "indicator": "Наличные",
+    "today": "300 000",
+    "yesterday": "300 000",
+    "thisday": "300 000"
+  },
+  {
+    "id": 2,
+    "indicator": "Безналичный расчет",
+    "today": "100 000",
+    "yesterday": "100 000",
+    "thisday": "100 000"
+  },
+  {
+    "id": 3,
+    "indicator": "Кредитные карты",
+    "today": "100 521",
+    "yesterday": "100 521",
+    "thisday": "100 521"
+  },
+  {
+    "id": 4,
+    "indicator": "Средний чек, руб",
+    "today": "1 300",
+    "yesterday": "900",
+    "thisday": "900"
+  },
+  {
+    "id": 5,
+    "indicator": "Средний гость, руб",
+    "today": "1 200",
+    "yesterday": "800",
+    "thisday": "800"
+  },
+  {
+    "id": 6,
+    "indicator": "Удаление из чека (после оплаты), руб",
+    "today": "1 000",
+    "yesterday": "1 100",
+    "thisday": "900"
+  },
+  {
+    "id": 7,
+    "indicator": "Удаление из чека (до оплаты), руб",
+    "today": "1 300",
+    "yesterday": "1 300",
+    "thisday": "900"
+  },
+  {
+    "id": 8,
+    "indicator": "Количество чеков",
+    "today": "34",
+    "yesterday": "36",
+    "thisday": "34"
+  },
+  {
+    "id": 9,
+    "indicator": "Количество гостей",
+    "today": "34",
+    "yesterday": "36",
+    "thisday": "32"
+  }
+]

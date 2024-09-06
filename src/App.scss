@@ -1,0 +1,19 @@
+$font-path: './assets/fonts/';
+
+$open-sans-regular-woff: '#{$font-path}OpenSans-Regular.woff';
+$open-sans-regular-woff2: '#{$font-path}OpenSans-Regular.woff2';
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url(#{$open-sans-regular-woff}), url(#{$open-sans-regular-woff2});
+  font-weight: 400;
+}
+
+.font-open-sans {
+  font-family: 'Open Sans';
+}
+
+.App {
+  display: grid;
+  place-items: center;
+}
